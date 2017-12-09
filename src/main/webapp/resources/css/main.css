@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+p {
+	color: DodgerBlue;
+	text-align:center;
+	text-indent:50px;
+	background-color: red;
+}
